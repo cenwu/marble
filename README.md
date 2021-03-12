@@ -1,2 +1,2 @@
 # marble
-Marginal Bayesian Variable Selection
+Marginal Bayesian Variable Selection for Gene-environment interactions
