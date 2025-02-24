@@ -3,7 +3,17 @@
 
 # marble
 
-> Robust Marginal Bayesian Variable Selection 
+> Robust Marginal Bayesian Variable Selection
+
+<!-- badges: start -->
+
+[![CRAN](https://www.r-pkg.org/badges/version/marble)](https://cran.r-project.org/package=marble)
+[![CRAN RStudio mirror
+downloads](https://cranlogs.r-pkg.org/badges/grand-total/marble)](https://www.r-pkg.org:443/pkg/marble)
+[![CRAN RStudio mirror
+downloads](https://cranlogs.r-pkg.org/badges/last-month/marble)](https://www.r-pkg.org:443/pkg/marble)
+
+<!-- badges: end -->
 
 Recently, multiple marginal variable selection methods have been developed and shown to be effective in Gene-Environment interactions studies. We propose a novel marginal Bayesian variable selection method for Gene-Environment interactions studies. In particular, our marginal Bayesian method is robust to data contamination and outliers in the outcome variables. With the incorporation of spike-and-slab priors, we have implemented the Gibbs sampler based on Markov Chain Monte Carlo (MCMC). The core algorithms of the package have been developed in C++.
 
